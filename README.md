@@ -1,6 +1,6 @@
-# ModeloApp
+# Angular4 com Bootstrap4
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.1.
+Esse modelo foi desenvolvido como exemplo de uma aplicação inicial com Angular 4 + Bootstrap 4
 
 ## Development server
 
